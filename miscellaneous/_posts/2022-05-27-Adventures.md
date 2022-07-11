@@ -32,7 +32,7 @@ Dad and I have wanted to skydive for an eternity. After a beautiful rocky tour s
 
 <br>
 
-> Went on a night dive for 50 mins. Kept out flashlights off for at least 35 minutes. Turned them on to a nurse shark 3 feet from me.
+> Went on a night dive for 50 mins. Kept our flashlights off for at least 35 minutes. Turned them on in the darkness to see a nurse shark 3 feet from me.
 
 <p align-items="center">
 <img src="/images/adventure/scuba2019combined.png" alt="scuba2019mayride" style="width: 100%;  margin:20px 20px; border-radius:0%" />
