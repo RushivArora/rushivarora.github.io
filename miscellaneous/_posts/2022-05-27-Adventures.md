@@ -43,7 +43,7 @@ Dad and I have wanted to skydive for an eternity. After a beautiful rocky tour s
 
 <br>
 
-> Only sport that every scared me. Not anymore.
+> Only sport that ever scared me. Not anymore.
 
 <p align-items="center">
 <img src="/images/adventure/bungee.png" alt="bungee2022whistler" style="width: 100%;  margin:20px 20px; border-radius:0%" />
