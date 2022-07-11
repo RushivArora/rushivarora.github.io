@@ -48,7 +48,7 @@ Found this technological marvel fully functional at M5. Notice the signature by 
 
 <br>
 
-> Dad saw an iMac at the Taj in Mumbai in SOMEYEAR. Now so have I!
+> Dad saw an iMac at the Ambassador Hotel at Churchgate, Mumbai, in 1998. Now so have I!
 
 <p align="center">
 <img src="/images/computing_history/museum2021m5.jpeg" alt="museum2021m5" style="width: 50%;  margin:20px 20px; border-radius:0%" />
