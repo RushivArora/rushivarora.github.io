@@ -23,7 +23,7 @@ Professor Baird Soules went to the garage sale of (I believe) Claude Shannon's g
 
 <br>
 
-I still can't believe that I got to touch and peruse the textbook that the Father of Information Theory studied from, and that I got to his penned corner notes - WOW! Too bad I couldn't strike a deal with Professor Soules to sell it to me.
+I still can't believe that I got to touch and peruse the textbook that the Father of Information Theory studied from, and that I got to see his penned corner notes - WOW! Too bad I couldn't strike a deal with Professor Soules to sell it to me.
 
 > A lot more signals in that textbook. It does make sense since everything was analog then.
 
