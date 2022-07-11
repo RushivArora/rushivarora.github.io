@@ -1,0 +1,47 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
+title:            Rushiv Arora
+tagline:          'Personal Website for Rushiv Arora'
+description:      'rrarora at cs.umass.edu <br>
+                  (617) 510-3784'
+url:              https://fongandrew.github.io
+baseurl:          # the optional subpath of your site, e.g. "/blog"
+                  # NB: This applies to all pages in your Jekyll site.
+                  # If you want to move just the blog index pages but keep
+                  # other pages at root, see the paginate_path and
+                  # sidebar_blog_link below.
+email:            rrarora@cs.umass.edu
+author:
+  name:           'Rushiv Arora'
+  url:            https://twitter.com/fongandrewc
+
+paginate:         5
+paginate_path:    '/miscellaneous/page:num'
+                    # Or '/blog/page:num' if you want to move your index pages
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+# Sidebar link settings
+sidebar_home_link:  true
+sidebar_blog_link:  '/miscellaneous'   # By default, your home page is your blog
+                                # page. If you change your paginate_path,
+                                # set this to the root of the paginate_path
+
+# Include all files under '_pages' as files in root directory
+include: ['_pages']
+
+github:
+  repo:             https://github.com/RushivArora
+twitter:            https://twitter.com/RushivArora
+facebook:           https://www.facebook.com/ruosh.arora27/
+linkedin:           https://www.linkedin.com/in/rushiv-arora/
+# scholar:
+CV:                 ./documents/RushivAroraCV.pdf
+ECEAward:           ./documents/ECE2021AwardofExcellence.pdf
+SDPAward:           ./documents/SDP2021HonorableMention.pdf     

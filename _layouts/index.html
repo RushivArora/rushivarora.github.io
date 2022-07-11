@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="content">
+
+  <img src="images/display1.jpg" style="margin-left: auto; margin-right: auto; max-width: 50vw">
+  {{ content }}
+
+  {% assign pages_list = site.pages %}
+  {% for post in pages_list %}
+
+  {% comment %}
+    for post in paginator.posts # this will only select pages under '_posts'
+  {% endcomment %}
+
+  {% if post.title == 'homepage' %}
+  <article class="post-body">
+
+    {% include post-meta.html post=post %}
+
+    {{ post.content }}
+
+  </article>
+  {% endif %}
+  {% endfor %}
+</div>

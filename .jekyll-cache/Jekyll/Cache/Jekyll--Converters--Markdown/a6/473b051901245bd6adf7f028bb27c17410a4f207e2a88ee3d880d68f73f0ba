@@ -1,0 +1,144 @@
+I"¢<style>
+
+table {
+  margin-bottom: 1rem;
+  width: 100%;
+  font-size: 85%;
+  border: 0px solid $border-color;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  padding: 1rem .25rem;
+  border: 0px solid $border-color;
+}
+
+th {
+  text-align: left;
+}
+
+tbody tr:nth-child(odd) td,
+tbody tr:nth-child(odd) th {
+  background-color: transparent;
+}
+
+paper {
+ color: #;
+ font-weight:bold;
+}
+
+</style>
+
+<p><br /></p>
+
+<!--<img align="left" width=150px src="/images/dp.jpg"> -->
+
+<p>Iâ€™m a Bay State Fellow pursuing a masters in Computer Science at the University of Massachusetts where I am fortunate to be advised by <a href="https://people.cs.umass.edu/~bsilva/">Professor Bruno Castro da Silva</a> and <a href="https://people.cs.umass.edu/~moss/?_gl=1*sdbxyt*_ga*MTY0NTE1MTIxNS4xNTM2NTI5Mzg0*_ga_21RLS0L7EB*MTY1NzQzODA5MC4zNTIuMS4xNjU3NDM4MTMxLjA.&amp;_ga=2.225631898.1219407999.1657438091-1645151215.1536529384">Professor Eliot Moss</a>. I am also a member of the BiNDS Lab where I am fortunate to work with <a href="https://www.cics.umass.edu/faculty/directory/siegelmann_hava">Professor Hava Siegelmann</a> on temporal aspects of machine intelligence. In a past life I completed my undergraduate at UMass Amherst with a double degree in Computer Science and Computer Engineering where I was awarded the CICS Outstanding Undergraduate Award and ECE Award Excellence for each respective degree.</p>
+
+<p><br /><br /></p>
+
+<p>My research interests are in reinforcement learning and machine learning, with a current emphasis on hierarchical and model-based reinforcement learning. I want to work on a goal that is accomplishable in our lifetime - realistically building competent autonomous agents that continuously learn about their environment, hopefully (but not necessarily) with a biological foundation.</p>
+
+<p><br /><br /></p>
+
+<h2 id="news">News</h2>
+<ul>
+  <li>Our paper on model-based reinforcement learning leveraging Physics was accepted at the DARL workshop at ICML 2022! Looking forward to being in Baltimore!</li>
+  <li>Our work on the design and implementation of search and detection UAV systems was accepted at the IEEE TVT!</li>
+  <li>I will be an Advanced Hardware Research Intern at the CTO Research group at Dell Technologies for summer 2022.
+<br /><br /></li>
+</ul>
+
+<h2 id="timeline">Timeline</h2>
+
+<p><br /></p>
+
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+
+   <tr>
+    <td width="5%" valign="middle"> <b>2022</b>
+    </td>
+     <td width="7%" valign="middle">
+            <img src="/images/timeline/dell_emc.png" alt="DM" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%" />
+     </td>
+     <td valign="middle" width="80%">
+          <p>
+              <b>Advanced Hardware Research Intern at CTO Group in </b> <a href="https://www.dell.com/en-us/blog/tags/dell-emc/">Dell EMC, Hopkinton</a>.
+              <br />
+              Advised by <a href="https://www.linkedin.com/in/michael-robillard-8bbb588/">Michael Robillard</a> and <a href="https://www.linkedin.com/in/trevorconn/">Trevor Conn</a>.
+          </p>  
+     </td>
+   </tr>
+
+   <tr>
+    <td width="5%" valign="middle"> <b>2021</b>
+    </td>
+     <td width="7%" valign="middle">
+            <img src="/images/timeline/umass.png" alt="DM" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%" />
+     </td>
+     <td valign="middle" width="80%">
+          <p>
+              <b>Graduated from </b> <a href="https://www.umass.edu/">UMass Amherst</a> <b>with a BS in Computer Science.</b>
+              <br />
+              <a href="https://www.cics.umass.edu/news/eight-graduating-seniors-honored-outstanding-achievements-cics">CICS Outstanding Undergraduate Achievement Award</a>.
+          </p>  
+     </td>
+   </tr>
+
+   <tr>
+    <td width="5%" valign="middle"> <b>2021</b>
+    </td>
+     <td width="7%" valign="middle">
+            <img src="/images/timeline/umass.png" alt="DM" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%" />
+     </td>
+     <td valign="middle" width="80%">
+          <p>
+              <b>Graduated from </b> <a href="https://www.umass.edu/">UMass Amherst</a> <b>with a BS in Computer Engineering.</b>
+              <br />
+              <a href="/./documents/ECE2021AwardofExcellence.pdf">ECE Award of Excellence</a> &amp;
+              <a href="/./documents/SDP2021HonorableMention.pdf">Honorable Mention - Senior Design Project</a>.
+              <br />
+              Member of Commonwealth Honors College.
+              <br />
+              Thesis Title: Machine Learning and Path Optimization-Based Autonomous Drones for Early Forest Fire Detection
+          </p>  
+     </td>
+   </tr>
+
+   <tr>
+    <td width="5%" valign="middle"> <b>2020</b>
+    </td>
+     <td width="7%" valign="middle">
+            <img src="/images/timeline/dell_emc.png" alt="DM" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%" />
+     </td>
+     <td valign="middle" width="80%">
+          <p>
+              <b>Advanced Hardware Research Intern at CTO group in </b> <a href="https://www.dell.com/en-us/blog/tags/dell-emc/">Dell EMC, Hopkinton</a>.
+              <br />
+              Advised by <a href="https://www.linkedin.com/in/michael-robillard-8bbb588/">Michael Robillard</a> and <a href="https://www.linkedin.com/in/michael-healy-boston-ma/">Michael Healy</a>.
+          </p>  
+     </td>
+   </tr>
+
+   <tr>
+    <td width="5%" valign="middle"> <b>2019</b>
+    </td>
+     <td width="7%" valign="middle">
+            <img src="/images/timeline/nyscf.png" alt="DM" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%" />
+     </td>
+     <td valign="middle" width="80%">
+          <p>
+              <b>Software Engineering Intern at </b> <a href="https://nyscf.org/">New York Stem Cell Research Foundation</a> <b>.</b>
+              <br />
+              Advised by <a href="https://www.linkedin.com/in/sean-desmarteau-670a4834/">Sean DesMarteau</a>
+          </p>  
+     </td>
+   </tr>
+
+
+
+</table>
+
+<p><br /><br /></p>
+:ET
