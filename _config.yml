@@ -33,10 +33,6 @@ sidebar_blog_link:  '/miscellaneous'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
 
-google_analytics:   G-Z7BLQYS74G
-
-# Include all files under '_pages' as files in root directory
-include: ['_pages']
 
 github:
   repo:             https://github.com/RushivArora
@@ -47,3 +43,8 @@ linkedin:           https://www.linkedin.com/in/rushiv-arora/
 CV:                 ./documents/RushivAroraCV.pdf
 ECEAward:           ./documents/ECE2021AwardofExcellence.pdf
 SDPAward:           ./documents/SDP2021HonorableMention.pdf
+
+# Include all files under '_pages' as files in root directory
+include: ['_pages']
+
+google_analytics:   G-Z7BLQYS74G
