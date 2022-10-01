@@ -39,6 +39,23 @@ paper {
 
 
 </style>
+#### Working Papers/Preprints
+
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+
+  <tr>
+     <td width="20%"  valign="middle">
+     </td>
+     <td valign="top" width="80%">
+          <p>
+              <paper>Learning and Learnt Dynamics of RNNs with Time-Dependent Behaviour</paper>
+              <br>
+              Peter Delmastro, <b>Rushiv Arora</b>, Terry Sejnowski, Hava Siegelmann
+          </p>  
+     </td>
+   </tr>
+
+</table>
 
 
 #### 2022
