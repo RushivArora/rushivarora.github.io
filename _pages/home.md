@@ -45,7 +45,7 @@ I'm a Bay State Fellow pursuing a masters in Computer Science at the University 
 
 <br><br>
 
-My research interests are in reinforcement learning and machine learning, with a current emphasis on hierarchical and model-based reinforcement learning. I want to work on a goal that is accomplishable in our lifetime - realistically building competent autonomous agents that continuously learn about their environment, hopefully (but not necessarily) with a biological foundation.
+My goal is to create AI systems that can make good decisions in complex, dynamic, and uncertain environments using broadly intelligent behaviors, preferably (but not necessarily) with a biological foundation. The different areas of Reinforcement Learning can achieve this goal jointly to create human-like agents due to their individual effectiveness in general problems like MDPs, with a key challenge lying in the safe, effective, and transferable combination of these different areas. My research areas are in reinforcement learning and machine learning, and I currently work in Hierarchical RL and Model-Based RL as a first foundational step to this long term goal.
 
 <br><br>
 
