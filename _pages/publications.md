@@ -55,6 +55,25 @@ paper {
      </td>
    </tr>
 
+   <tr>
+      <td width="20%"  valign="middle">
+             <img src="/images/publications/UAV2022TVT.png" alt="UAV" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/>
+      </td>
+      <td valign="top" width="80%">
+           <p>
+               <paper>A Search and Detection UAV System: from Design to Implementation</paper>
+               <br>
+               <a href='/publications'>Mohammadjavad Khosravi</a>,
+               <b>Rushiv Arora</b>,  
+               <a href='https://scholar.google.com/citations?user=jO4Xj9oAAAAJ&hl=en'>Saeede Enayati</a>,
+               <a href='https://scholar.google.com/citations?user=2OCQ9GkAAAAJ&hl=en'>Hossein Pishro-Nik</a>,
+               <br>
+              Submitted to IEEE Transactions on Automation Science and Engineering Editorial Office
+             <br>
+           </p>  
+      </td>
+    </tr>
+
 </table>
 
 
@@ -90,35 +109,6 @@ paper {
      </td>
    </tr>
 
-
-
-   <tr>
-      <td width="20%"  valign="middle">
-             <img src="/images/publications/UAV2022TVT.png" alt="UAV" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/>
-      </td>
-      <td valign="top" width="80%">
-           <p>
-               <paper>A Search and Detection UAV System: from Design to Implementation</paper>
-               <br>
-               <a href='/publications'>Mohammadjavad Khosravi</a>,
-               <b>Rushiv Arora</b>,  
-               <a href='https://scholar.google.com/citations?user=jO4Xj9oAAAAJ&hl=en'>Saeede Enayati</a>,
-               <a href='https://scholar.google.com/citations?user=2OCQ9GkAAAAJ&hl=en'>Hossein Pishro-Nik</a>,
-               <br>
-              IEEE Transactions on Vehicular Technology
-             <br>
-               <details>
-                 <summary>Abstract  | <a href="">Paper</a> | </summary>            
-                   <p class="message">
-                  	Utilizing unmanned aerial vehicles (UAVs) has shown great advantages over preceding methods in support of urgent scenarios such as search and rescue (SAR) and wildfire detection. In these operations, search efficiency in terms of the amount of time spent to find the target is crucial since with the  passing of time the survivability of the missing person decreases or the wildfire management becomes more difficult with disastrous consequences. In this work, we consider a scenario where a UAV is intended to search and detect a missing person (e.g., a hiker or a mountaineer) or a potential fire spot in a given area. In order to obtain the shortest path to the target, we provide a general framework to model the problem of target detection when the target's location is probabilistically known. To this end, we propose two algorithms: Path planning and target detection. The path planning algorithm is based on Bayesian inference and the target detection is accomplished by means of a residual neural network (ResNet) trained on our image dataset captured by drone. Through simulation and experiment, we compare our path planning algorithm with two benchmark algorithms and show that the proposed algorithm significantly decreases the average time of the mission.
-
-                    <br><br>
-                    <b>Keywords:</b> Unmanned aerial vehicles (UAVs), search and rescue (SAR), fire detection, path planning, machine learning.
-                   </p>
-               </details>
-           </p>  
-      </td>
-    </tr>
 
 
 </table>
