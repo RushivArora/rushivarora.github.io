@@ -71,7 +71,7 @@ paper {
               Submitted to IEEE Transactions on Automation Science and Engineering
              <br>
                <details>
-                 <summary> <a href="https://arxiv.org/abs/2211.15866">arXiv</a> | </summary>   
+                 <a href="https://arxiv.org/abs/2211.15866">arXiv</a>
            </p>  
       </td>
     </tr>
