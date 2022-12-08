@@ -72,6 +72,7 @@ paper {
              <br>
                <details>
                  <a href="https://arxiv.org/abs/2211.15866">arXiv</a>
+               </details>
            </p>  
       </td>
     </tr>
