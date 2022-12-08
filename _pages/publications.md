@@ -70,6 +70,8 @@ paper {
                <br>
               Submitted to IEEE Transactions on Automation Science and Engineering Editorial Office
              <br>
+               <details>
+                 <summary> <a href="https://arxiv.org/abs/2211.15866">arXiv</a> | </summary>   
            </p>  
       </td>
     </tr>
@@ -94,6 +96,8 @@ paper {
               <a href='https://people.cs.umass.edu/~bsilva/'>Bruno Castro da Silva</a>,
               <br>
              DARL Workshop @ The Thirty-ninth International Conference on Machine Learning (ICML 2022)
+             <br>
+             <p style="color:red">(Representative Technical Writing)</p>
             <br>
               <details>
                 <summary>Abstract  | <a href="https://openreview.net/forum?id=3xBZY7LGorK&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2022%2FWorkshop%2FDARL%2FAuthors%23your-submissions)">Paper</a> | <a href="https://arxiv.org/abs/2208.14501">arXiv</a> | </summary>            
