@@ -45,7 +45,7 @@ I'm a Bay State Fellow pursuing a masters in Computer Science at the University 
 
 <br><br>
 
-My goal is to create AI systems that can make good decisions in complex, dynamic, and uncertain environments using broadly intelligent behaviors, preferably (but not necessarily) with a biological foundation. The different areas of Reinforcement Learning can achieve this goal jointly to create human-like agents due to their individual effectiveness in general problems like MDPs, with a key challenge lying in the safe, effective, and transferable combination of these different areas. My research areas are in reinforcement learning and machine learning, and I currently work in Hierarchical RL and Model-Based RL as a first foundational step to this long term goal.
+My goal is to create AI systems that can make good decisions in complex, dynamic, and uncertain environments using broadly intelligent behaviors. The different areas of Reinforcement Learning can achieve this goal jointly to create human-like agents due to their individual effectiveness in general problems like MDPs, with a key challenge lying in the safe, effective, and transferable combination of these different areas. My research areas are in reinforcement learning and machine learning, and I currently work in Hierarchical and Model-Based RL as a first foundational step to this long term goal.
 
 <br><br>
 
