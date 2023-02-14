@@ -49,9 +49,20 @@ paper {
      </td>
      <td valign="top" width="80%">
           <p>
-              <paper>Learning and Learnt Dynamics of RNNs with Time-Dependent Behaviour</paper>
+              <paper>Dynamics of Learning Time-Aware Behavior with RNNs</paper>
               <br>
-              Peter Delmastro, <b>Rushiv Arora</b>, Terry Sejnowski, Hava Siegelmann
+              Peter Delmastro, <b>Rushiv Arora</b>, Edward Rietman, Hava Siegelmann
+              <br>
+              Submitted to COLT 2023
+              <br>
+              <details>
+                <summary>Abstract  </summary>            
+                  <p class="message">
+                  Phenomena governed by hidden time-dependence arise in many important machine learning applications. Recurrent neural networks (RNNs) have shown great success in inferring temporal dynamics, but theoretical investigation of their capacity to efficiently learn time-dependent behavior is limited. To address this gap, we introduce a family of tasks based on automata called temporal flipflops to allow direct control over the complexity of the time-awareness. We find that RNNs learn in phases when trained to emulate these automata --- they quickly perfect any time-independent behavior, but they initially struggle to discover hidden time-dependence. We further applied fixed point stability analysis to study their dynamics both during and after training, and we find that bifurcations in network dynamics impact the rate at which time-of-day dependent behavior is learned. Overall, this work creates a foundation for further exploration of time-aware RNNs from the perspective of computational complexity and dynamical systems theory.
+                  <br><br>
+                  <b>Keywords</b>: Neural Networks/Deep Learning, Computational complexity, Learning from complex/structured data, Dynamical systems theory
+                  </p>
+              </details>
           </p>  
      </td>
    </tr>
