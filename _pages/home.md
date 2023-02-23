@@ -51,6 +51,7 @@ My goal is to create AI systems that can make good decisions in complex, dynamic
 
 
 ## News
+* New paper submitted to COLT 2023!
 * Our paper on model-based reinforcement learning leveraging Physics was accepted at the DARL workshop at ICML 2022! Looking forward to being in Baltimore!
 * New preprint submitted to IEEE T-ASE!
 * I will be an Advanced Hardware Research Intern at the CTO Research group at Dell Technologies for summer 2022.
