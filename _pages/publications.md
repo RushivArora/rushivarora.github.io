@@ -43,22 +43,45 @@ paper {
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 
+   <tr>
+     <td width="20%"  valign="middle">
+           <img src="/images/publications/TFA2022.png" alt="TFA" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/>
+     </td>
+     <td valign="top" width="80%">
+          <p>
+              <paper>Hierarchical Universal Value Functional Approximators</paper>
+              <br>
+              <b>Rushiv Arora</b>, Ignacio Gavier, Eliot Moss
+              <br>
+              Submitted to NeurIPS 2023
+              <br>
+              <details>
+                <summary>Abstract  </summary>            
+                  <p class="message">
+                  <br><br>
+                  <b>Keywords</b>: Reinforcement Learning, Machine Learning
+                  </p>
+              </details>
+          </p>  
+     </td>
+   </tr>
+
   <tr>
      <td width="20%"  valign="middle">
            <img src="/images/publications/TFA2022.png" alt="TFA" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/>
      </td>
      <td valign="top" width="80%">
           <p>
-              <paper>Dynamics of Learning Time-Aware Behavior with RNNs</paper>
+              <paper>On the Dynamics of Learning Time-Aware Behavior with Recurrent Neural Networks</paper>
               <br>
               Peter Delmastro, <b>Rushiv Arora</b>, Edward Rietman, Hava Siegelmann
               <br>
-              Submitted to COLT 2023
+              Submitted to NeurIPS 2023
               <br>
               <details>
                 <summary>Abstract  </summary>            
                   <p class="message">
-                  Phenomena governed by hidden time-dependence arise in many important machine learning applications. Recurrent neural networks (RNNs) have shown great success in inferring temporal dynamics, but theoretical investigation of their capacity to efficiently learn time-dependent behavior is limited. To address this gap, we introduce a family of tasks based on automata called temporal flipflops to allow direct control over the complexity of the time-awareness. We find that RNNs learn in phases when trained to emulate these automata --- they quickly perfect any time-independent behavior, but they initially struggle to discover hidden time-dependence. We further applied fixed point stability analysis to study their dynamics both during and after training, and we find that bifurcations in network dynamics impact the rate at which time-of-day dependent behavior is learned. Overall, this work creates a foundation for further exploration of time-aware RNNs from the perspective of computational complexity and dynamical systems theory.
+                  Recurrent Neural Networks (RNNs) have shown great success in modeling time-dependent patterns, but there is limited research on their learned representations of latent temporal features and the emergence of these representations during training. To address this gap, we use timed automata (TA) to introduce a family of tasks modeling behavior dependent on hidden temporal variables whose complexity is directly controllable. Building upon past studies from the perspective of dynamical systems, we train RNNs to emulate temporal flipflops, a new collection of TA that emphasizes the need for time-awareness over long-term memory. We find that these RNNs learn in phases - they quickly perfect any time-independent behavior, but they initially struggle to discover the hidden time-dependence. In the case of periodic "time-of-day" aware automata, we show that the RNNs learn to switch between periodic orbits that encode time modulo the period of the transition rules. We subsequently apply fixed point stability analysis to monitor changes in the RNN dynamics during training, and we observe that the learning phases are separated by a bifurcation from which the periodic behavior emerges. In this way, we demonstrate how dynamical systems theory can provide insights into not only the learned representations of these models, but also the dynamics of the learning process itself. We argue that this style of analysis may also be applicable to understanding training pathologies of recurrent architectures in contexts outside of time-awareness.
                   <br><br>
                   <b>Keywords</b>: Neural Networks/Deep Learning, Computational complexity, Learning from complex/structured data, Dynamical systems theory
                   </p>
