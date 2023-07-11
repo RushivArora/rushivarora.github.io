@@ -51,6 +51,7 @@ My goal is to create AI systems that can make good decisions in complex, dynamic
 
 
 ## News
+* Presented a paper at IEEE VTC in Florence Italy!
 * New paper submitted to NeurIPS 2023!
 * Our paper on model-based reinforcement learning leveraging Physics was accepted at the DARL workshop at ICML 2022! Looking forward to being in Baltimore!
 * New preprint submitted to IEEE T-ASE!
