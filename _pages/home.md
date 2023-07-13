@@ -51,11 +51,11 @@ My goal is to create AI systems that can make good decisions in complex, dynamic
 
 
 ## News
-* Presented a paper at IEEE VTC in Florence Italy!
-* New paper submitted to NeurIPS 2023!
-* Our paper on model-based reinforcement learning leveraging Physics was accepted at the DARL workshop at ICML 2022! Looking forward to being in Baltimore!
-* New preprint submitted to IEEE T-ASE!
-* I will be an Advanced Hardware Research Intern at the CTO Research group at Dell Technologies for summer 2022.
+* [06/12/2023] Presented a paper at IEEE VTC in Florence Italy!
+* [05/12/2023] New paper submitted to NeurIPS 2023!
+* [11/16/2023] New preprint submitted to IEEE T-ASE!* New preprint submitted to IEEE T-ASE!
+* [07/22/2022] Our paper on model-based reinforcement learning leveraging Physics was accepted at the DARL workshop at ICML 2022! Looking forward to being in Baltimore!
+* [05/27/2022] I will be an Advanced Hardware Research Intern at the CTO Research group at Dell Technologies for summer 2022.
 <br><br>
 
 ## Timeline
