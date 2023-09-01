@@ -64,9 +64,11 @@ paper {
           </p>  
      </td>
    </tr>
+  </table>
 
 #### 2023
 
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
   <tr>
      <td width="20%"  valign="middle">
            <img src="/images/publications/TFA2022.png" alt="TFA" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/>
