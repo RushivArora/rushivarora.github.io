@@ -65,6 +65,8 @@ paper {
      </td>
    </tr>
 
+#### 2023
+
   <tr>
      <td width="20%"  valign="middle">
            <img src="/images/publications/TFA2022.png" alt="TFA" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/>
@@ -75,7 +77,7 @@ paper {
               <br>
               Peter Delmastro, <b>Rushiv Arora</b>, Edward Rietman, Hava Siegelmann
               <br>
-              Submitted to NeurIPS 2023
+              Submitted to ICLR 2024
               <br>
               <details>
                 <summary>Abstract  | <a href="https://arxiv.org/abs/2306.07125">arXiv</a> </summary>            
@@ -105,6 +107,26 @@ paper {
               Submitted to IEEE Transactions on Automation Science and Engineering
              <br>
              <a href="https://arxiv.org/abs/2211.15866">arXiv</a>
+           </p>  
+      </td>
+    </tr>
+
+  <tr>
+      <td width="20%"  valign="middle">
+             <img src="/images/publications/UAV2022TVT.png" alt="UAV" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/>
+      </td>
+      <td valign="top" width="80%">
+           <p>
+               <paper>Deployment of a UAV-Based Fire Detection System</paper>
+               <br>
+               <b>Rushiv Arora</b>, 
+               <a href='/publications'>Mohammadjavad Khosravi</a>, 
+               <a href='https://scholar.google.com/citations?user=jO4Xj9oAAAAJ&hl=en'>Saeede Enayati</a>,
+               <a href='https://scholar.google.com/citations?user=2OCQ9GkAAAAJ&hl=en'>Hossein Pishro-Nik</a>,
+               <br>
+              2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring)
+             <br>
+             <a href="https://ieeexplore.ieee.org/abstract/document/10200883">IEEE Xplore</a>
            </p>  
       </td>
     </tr>
