@@ -64,6 +64,50 @@ paper {
           </p>  
      </td>
    </tr>
+
+   <tr>
+     <td width="20%"  valign="middle">
+     </td>
+     <td valign="top" width="80%">
+          <p>
+              <paper>Options for Multi-Task RL</paper>
+              <br>
+              <b>Rushiv Arora</b>, Aline Weber, Bruno Castro da Silva
+              <br>
+              Pre-print
+              <br>
+              <details>
+                <summary>Abstract  </summary>            
+                  <p class="message">
+                  <br><br>
+                  <b>Keywords</b>: Reinforcement Learning, Machine Learning
+                  </p>
+              </details>
+          </p>  
+     </td>
+   </tr>
+
+   <tr>
+     <td width="20%"  valign="middle">
+     </td>
+     <td valign="top" width="80%">
+          <p>
+              <paper>Locally Constrained Representations in Reinforcement Learning</paper>
+              <br>
+              <b>Somjith Nath</b>, Rushiv Arora, Samira Ebrahimi Kahou
+              <br>
+              Pre-print
+              <br>
+              <details>
+                <summary>Abstract  </summary>            
+                  <p class="message">
+                  <br><br>
+                  <b>Keywords</b>: Reinforcement Learning, Machine Learning
+                  </p>
+              </details>
+          </p>  
+     </td>
+   </tr>
   </table>
 
 #### 2023
