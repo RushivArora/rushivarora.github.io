@@ -41,19 +41,21 @@ paper {
 
 <!--<img align="left" width=150px src="/images/dp.jpg"> -->
 
-I'm a Bay State Fellow pursuing a masters in Computer Science at the University of Massachusetts where I am fortunate to be advised by <a href='https://people.cs.umass.edu/~bsilva/'>Professor Bruno Castro da Silva</a> and <a href='https://people.cs.umass.edu/~moss/?_gl=1*sdbxyt*_ga*MTY0NTE1MTIxNS4xNTM2NTI5Mzg0*_ga_21RLS0L7EB*MTY1NzQzODA5MC4zNTIuMS4xNjU3NDM4MTMxLjA.&_ga=2.225631898.1219407999.1657438091-1645151215.1536529384'>Professor Eliot Moss</a>. I am also a member of the BiNDS Lab where I am fortunate to work with <a href='https://scholar.google.co.il/citations?user=A2fiOI0AAAAJ&hl=en'>Professor Hava Siegelmann</a> on temporal aspects of machine intelligence. In a past life I completed my undergraduate at UMass Amherst with a double degree in Computer Science and Computer Engineering where I was awarded the CICS Outstanding Undergraduate <a href="https://www.cics.umass.edu/news/eight-graduating-seniors-honored-outstanding-achievements-cics">Award</a> and ECE <a href="{{site.baseurl}}/{{ site.ECEAward }}">Award</a> of Excellence for each respective degree. I led my undergrad ECE senior design project and <a href="{{site.baseurl}}/{{ site.SDPAward }}">received</a> an honorable mention for it.
+I'm a Advanced Hardware + ML researcher at Dell Research as part of the Office of the Global CTO. I'm also an external researcher with the RL + Vision Lab at MILA advised with Professor Samira Ebhrahimi Kahou. Prior I was a Bay State Fellow masters student in Computer Science at the University of Massachusetts where I was fortunate to be advised by <a href='https://people.cs.umass.edu/~bsilva/'>Professor Bruno Castro da Silva</a> and <a href='https://people.cs.umass.edu/~moss/?_gl=1*sdbxyt*_ga*MTY0NTE1MTIxNS4xNTM2NTI5Mzg0*_ga_21RLS0L7EB*MTY1NzQzODA5MC4zNTIuMS4xNjU3NDM4MTMxLjA.&_ga=2.225631898.1219407999.1657438091-1645151215.1536529384'>Professor Eliot Moss</a>. I was also a member of the BiNDS Lab where I am fortunate to work with <a href='https://scholar.google.co.il/citations?user=A2fiOI0AAAAJ&hl=en'>Professor Hava Siegelmann</a> on temporal aspects of machine intelligence. In a past life I completed my undergraduate at UMass Amherst with a double degree in Computer Science and Computer Engineering where I was awarded the CICS Outstanding Undergraduate <a href="https://www.cics.umass.edu/news/eight-graduating-seniors-honored-outstanding-achievements-cics">Award</a> and ECE <a href="{{site.baseurl}}/{{ site.ECEAward }}">Award</a> of Excellence for each respective degree. I led my undergrad ECE senior design project and <a href="{{site.baseurl}}/{{ site.SDPAward }}">received</a> an honorable mention for it.
 
 <br><br>
 
-My goal is to create AI systems that can make good decisions in complex, dynamic, and uncertain environments using broadly intelligent behaviors. The different areas of Reinforcement Learning can achieve this goal jointly to create human-like agents due to their individual effectiveness in general problems like MDPs, with a key challenge lying in the safe, effective, and transferable combination of these different areas. My research areas are in reinforcement learning and machine learning, and I currently work in Hierarchical and Model-Based RL as a first foundational step to this long term goal.
+My goal is to create AI systems that can make good decisions in complex, dynamic, and uncertain environments using broadly intelligent behaviors. Intelligent behaviors are a combination of varying fields---including representation learning, decision-making, sensing, and planning---with the key challenge lying in the safe, effective, and transferable combination of these different areas.  My research areas are in reinforcement learning and machine learning, and I currently work in Hierarchical and Model-Based RL, Representation Learning, and Neuroscience-Inspired ML as a first foundational step to this long term goal.
 
 <br><br>
 
 
 ## News
+* [11/02/2023] Paper accepted at IEEE T-ASE!
+* [10/12/2023] Joined the RL + Vision Lab at MILA as an External Collaborator!
+* [09/12/2023] New paper submitted to ICLR 2024!
 * [06/12/2023] Presented a paper at IEEE VTC in Florence Italy!
-* [05/12/2023] New paper submitted to NeurIPS 2023!
-* [11/16/2023] New preprint submitted to IEEE T-ASE!* New preprint submitted to IEEE T-ASE!
+* [11/16/2022] New preprint submitted to IEEE T-ASE!
 * [07/22/2022] Our paper on model-based reinforcement learning leveraging Physics was accepted at the DARL workshop at ICML 2022! Looking forward to being in Baltimore!
 * [05/27/2022] I will be an Advanced Hardware Research Intern at the CTO Research group at Dell Technologies for summer 2022.
 <br><br>
@@ -64,8 +66,25 @@ My goal is to create AI systems that can make good decisions in complex, dynamic
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 
+   
    <tr>
-    <td width="5%"  valign="middle"> <b>2022</b>
+    <td width="5%"  valign="middle"> <b>06/2023</b>
+    </td>
+     <td width="7%"  valign="middle">
+            <img src="/images/timeline/dell_emc.png" alt="DM" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/>
+     </td>
+     <td valign="middle" width="80%">
+          <p>
+              <b>Full-Time Advanced Hardware + ML Researcher at CTO Group in </b> <a href="https://www.dell.com/en-us/blog/tags/dell-emc/">Dell EMC, Hopkinton</a>.
+              <br>
+              Advised by <a href="https://www.linkedin.com/in/michael-robillard-8bbb588/">Michael Robillard</a> and <a href="https://www.linkedin.com/in/trevorconn/">Trevor Conn</a>.
+          </p>  
+     </td>
+   </tr>	
+
+
+   <tr>
+    <td width="5%"  valign="middle"> <b>06/2022-06/2023</b>
     </td>
      <td width="7%"  valign="middle">
             <img src="/images/timeline/dell_emc.png" alt="DM" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/>
