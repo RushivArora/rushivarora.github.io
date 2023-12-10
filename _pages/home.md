@@ -80,7 +80,22 @@ My goal is to create AI systems that can make good decisions in complex, dynamic
               Advised by <a href="https://www.linkedin.com/in/michael-robillard-8bbb588/">Michael Robillard</a> and <a href="https://www.linkedin.com/in/trevorconn/">Trevor Conn</a>.
           </p>  
      </td>
-   </tr>	
+   </tr>
+
+   <tr>
+    <td width="5%"  valign="middle"> <b>2023</b>
+    </td>
+     <td width="7%"  valign="middle">
+            <img src="/images/timeline/umass.png" alt="DM" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/>
+     </td>
+     <td valign="middle" width="80%">
+          <p>
+              <b>Graduated from </b> <a href="https://www.umass.edu/">UMass Amherst</a> <b>with a MS in Computer Science.</b>
+              <br>
+              Received a Bay State Fellowship.
+          </p>  
+     </td>
+   </tr>
 
 
    <tr>
