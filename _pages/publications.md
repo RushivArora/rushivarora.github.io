@@ -150,7 +150,7 @@ paper {
                <a href='https://scholar.google.com/citations?user=jO4Xj9oAAAAJ&hl=en'>Saeede Enayati</a>,
                <a href='https://scholar.google.com/citations?user=2OCQ9GkAAAAJ&hl=en'>Hossein Pishro-Nik</a>,
                <br>
-              Submitted to IEEE Transactions on Automation Science and Engineering
+              Accepted at IEEE Transactions on Automation Science and Engineering
              <br>
              <a href="https://arxiv.org/abs/2211.15866">arXiv</a>
            </p>  
