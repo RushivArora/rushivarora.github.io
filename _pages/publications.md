@@ -128,6 +128,7 @@ paper {
               <details>
                 <summary>Abstract  </summary>            
                   <p class="message">
+                  The success of Reinforcement Learning (RL) heavily relies on the ability to learn robust representations from the observations of the environment. In most cases, the representations learned purely by the reinforcement learning loss can differ vastly across states depending on how the value functions change. However, the representations learned need not be very specific to the task at hand. Relying only on the Reinforcement Learning objective may yield representations that vary greatly across successive time steps. In addition, since the Reinforcement Learning loss has a changing target, the representations learned would depend on how good the current values/policies are. Thus, disentangling the representations from the main task would allow them to focus not only on the task-specific features but also the environment dynamics. To this end, we propose locally constrained representations, where an auxiliary loss forces the state representations to be predictable by the representations of the neighboring states. This encourages the representations to be driven not only by the value/policy learning but an additional loss that constrains the representations from over-fitting to the value loss. We evaluate the proposed method on several known benchmarks and observe strong performance. Especially in continuous control tasks, our experiments show a significant performance improvement.
                   <br><br>
                   <b>Keywords</b>: Reinforcement Learning, Machine Learning
                   </p>
@@ -150,7 +151,7 @@ paper {
               <br>
               Peter Delmastro, <b>Rushiv Arora</b>, Edward Rietman, Hava Siegelmann
               <br>
-              Submitted to ICLR 2024
+              Under Review at ICLR 2024
               <br>
               <details>
                 <summary>Abstract  | <a href="https://arxiv.org/abs/2306.07125">arXiv</a> </summary>            
