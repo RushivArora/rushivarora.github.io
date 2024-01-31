@@ -110,6 +110,33 @@ paper {
    </tr>
   </table>
 
+#### 2024
+
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+
+   <tr>
+     <td width="20%"  valign="middle">
+     </td>
+     <td valign="top" width="80%">
+          <p>
+              <paper>Locally Constrained Representations in Reinforcement Learning</paper>
+              <br>
+              Somjith Nath, <b>Rushiv Arora</b>, Samira Ebrahimi Kahou
+              <br>
+              Under review at ICML 2024
+              <br>
+              <details>
+                <summary>Abstract  </summary>            
+                  <p class="message">
+                  <br><br>
+                  <b>Keywords</b>: Reinforcement Learning, Machine Learning
+                  </p>
+              </details>
+          </p>  
+     </td>
+   </tr>
+  </table>
+
 #### 2023
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
