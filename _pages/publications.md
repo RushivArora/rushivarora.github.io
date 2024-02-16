@@ -101,7 +101,7 @@ paper {
               <br>
               Somjith Nath, <b>Rushiv Arora</b>, Samira Ebrahimi Kahou
               <br>
-              Under review at ICML 2024
+              Under review
               <br>
               <details>
                 <summary>Abstract  </summary>            
@@ -129,7 +129,7 @@ paper {
               <br>
               Peter Delmastro, <b>Rushiv Arora</b>, Edward Rietman, Hava Siegelmann
               <br>
-              Under Review at ICLR 2024
+              Under Review
               <br>
               <details>
                 <summary>Abstract  | <a href="https://arxiv.org/abs/2306.07125">arXiv</a> </summary>            
