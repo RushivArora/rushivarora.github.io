@@ -48,6 +48,29 @@ paper {
      </td>
      <td valign="top" width="80%">
           <p>
+              <paper>DIY Mujoco: Building and Testing Physical Robots for RL Generalization</paper>
+              <br>
+              <b>Rushiv Arora</b>
+              <br>
+              Pre-print
+              <br>
+              <details>
+                <summary>Abstract  </summary>            
+                  <p class="message">
+                  The Mujoco Environment is widely used in Reinforcement Learning as a measure of performance in Robotics domains. This is often a crude approximation of the generalization of performance to real-robots. We exploit the fact that these robots rely on small degrees-of-freedom to create physical robots using commonly available parts and processes that can be easily recreated by researchers who wish to test the generalization of their algorithms in the real-world. By doing so, we aim to increase access of robotic domains to researchers and bolster the claims of Sim2Real methods. We test our Mujoco robots by measuring generalization of policies learned via popular algorithms, namely Soft-Actor Critic and Proximal Policy Optimization, to the physical robot.
+                  <br><br>
+                  <b>Keywords</b>: Reinforcement Learning, Machine Learning, Robotics, Sim2Real
+                  </p>
+              </details>
+          </p>  
+     </td>
+   </tr>
+   
+   <tr>
+     <td width="20%"  valign="middle">
+     </td>
+     <td valign="top" width="80%">
+          <p>
               <paper>Hierarchical Universal Value Functional Approximators</paper>
               <br>
               <b>Rushiv Arora</b>, Ignacio Gavier, Eliot Moss
@@ -58,7 +81,7 @@ paper {
                 <summary>Abstract  </summary>            
                   <p class="message">
                   <br><br>
-                  <b>Keywords</b>: Reinforcement Learning, Machine Learning
+                  <b>Keywords</b>: Hierarchical Reinforcement Learning, Machine Learning, Linear Algebra,
                   </p>
               </details>
           </p>  
@@ -80,7 +103,7 @@ paper {
                 <summary>Abstract  </summary>            
                   <p class="message">
                   <br><br>
-                  <b>Keywords</b>: Reinforcement Learning, Machine Learning
+                  <b>Keywords</b>: Hierarchical Reinforcement Learning, Machine Learning
                   </p>
               </details>
           </p>  
