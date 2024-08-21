@@ -41,7 +41,7 @@ paper {
 
 <!--<img align="left" width=150px src="/images/dp.jpg"> -->
 
-I'm a Advanced Hardware + ML researcher at Dell Research as part of the Office of the Global CTO. I'm also an external researcher with the RL + Vision Lab at MILA advised with Professor Samira Ebhrahimi Kahou. Prior I was a Bay State Fellow masters student in Computer Science at the University of Massachusetts where I was fortunate to be advised by <a href='https://people.cs.umass.edu/~bsilva/'>Professor Bruno Castro da Silva</a> and <a href='https://people.cs.umass.edu/~moss/?_gl=1*sdbxyt*_ga*MTY0NTE1MTIxNS4xNTM2NTI5Mzg0*_ga_21RLS0L7EB*MTY1NzQzODA5MC4zNTIuMS4xNjU3NDM4MTMxLjA.&_ga=2.225631898.1219407999.1657438091-1645151215.1536529384'>Professor Eliot Moss</a>. I was also a member of the BiNDS Lab where I am fortunate to work with <a href='https://scholar.google.co.il/citations?user=A2fiOI0AAAAJ&hl=en'>Professor Hava Siegelmann</a> on temporal aspects of machine intelligence. In a past life I completed my undergraduate at UMass Amherst with a double degree in Computer Science and Computer Engineering where I was awarded the CICS Outstanding Undergraduate <a href="https://www.cics.umass.edu/news/eight-graduating-seniors-honored-outstanding-achievements-cics">Award</a> and ECE <a href="{{site.baseurl}}/{{ site.ECEAward }}">Award</a> of Excellence for each respective degree. I led my undergrad ECE senior design project and <a href="{{site.baseurl}}/{{ site.SDPAward }}">received</a> an honorable mention for it.
+I'm a Advanced Hardware + ML researcher at Dell AI Research as part of the Office of the Global CTO. I'm also an external researcher with the RL + Vision Lab at MILA advised with Professor Samira Ebhrahimi Kahou. Prior I was a Bay State Fellow masters student in Computer Science at the University of Massachusetts where I was fortunate to be advised by <a href='https://people.cs.umass.edu/~bsilva/'>Professor Bruno Castro da Silva</a> and <a href='https://people.cs.umass.edu/~moss/?_gl=1*sdbxyt*_ga*MTY0NTE1MTIxNS4xNTM2NTI5Mzg0*_ga_21RLS0L7EB*MTY1NzQzODA5MC4zNTIuMS4xNjU3NDM4MTMxLjA.&_ga=2.225631898.1219407999.1657438091-1645151215.1536529384'>Professor Eliot Moss</a>. I was also a member of the BiNDS Lab where I am fortunate to work with <a href='https://scholar.google.co.il/citations?user=A2fiOI0AAAAJ&hl=en'>Professor Hava Siegelmann</a> on temporal aspects of machine intelligence. In a past life I completed my undergraduate at UMass Amherst with a double degree in Computer Science and Computer Engineering where I was awarded the CICS Outstanding Undergraduate <a href="https://www.cics.umass.edu/news/eight-graduating-seniors-honored-outstanding-achievements-cics">Award</a> and ECE <a href="{{site.baseurl}}/{{ site.ECEAward }}">Award</a> of Excellence for each respective degree. I led my undergrad ECE senior design project and <a href="{{site.baseurl}}/{{ site.SDPAward }}">received</a> an honorable mention for it.
 
 <br><br>
 
@@ -51,6 +51,8 @@ My goal is to create AI systems that can make good decisions in complex, dynamic
 
 
 ## News
+* [05/21/2024] New Paper on Representations in Reinforcement Learning; submitted!
+* [03/01/2024] Changing ORGs in Dell, we are now the AI Research and Innovation (AIRI) Group!
 * [11/02/2023] Paper accepted at IEEE T-ASE!
 * [10/12/2023] Joined the RL + Vision Lab at MILA as an External Collaborator!
 * [09/12/2023] New paper submitted to ICLR 2024!
