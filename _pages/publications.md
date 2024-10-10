@@ -65,28 +65,6 @@ paper {
           </p>  
      </td>
    </tr>
-   
-   <tr>
-     <td width="20%"  valign="middle">
-     </td>
-     <td valign="top" width="80%">
-          <p>
-              <paper>Hierarchical Universal Value Functional Approximators</paper>
-              <br>
-              <b>Rushiv Arora</b>, Ignacio Gavier, Eliot Moss
-              <br>
-              Pre-print
-              <br>
-              <details>
-                <summary>Abstract  </summary>            
-                  <p class="message">
-                  <br><br>
-                  <b>Keywords</b>: Hierarchical Reinforcement Learning, Machine Learning, Linear Algebra,
-                  </p>
-              </details>
-          </p>  
-     </td>
-   </tr>
 
    <tr>
      <td width="20%"  valign="middle">
@@ -115,6 +93,28 @@ paper {
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 
+  <tr>
+     <td width="20%"  valign="middle">
+     </td>
+     <td valign="top" width="80%">
+          <p>
+              <paper>Hierarchical Universal Value Functional Approximators</paper>
+              <br>
+              <b>Rushiv Arora</b>
+              <br>
+              Under Review
+              <br>
+              <details>
+                <summary>Abstract  </summary>            
+                  <p class="message">
+                  <br><br>
+                  <b>Keywords</b>: Reinforcement Learning, Universal Value Function Approximators
+                  </p>
+              </details>
+          </p>  
+     </td>
+   </tr>
+
    <tr>
      <td width="20%"  valign="middle">
      </td>
@@ -137,6 +137,7 @@ paper {
           </p>  
      </td>
    </tr>
+
   </table>
 
 #### 2023
