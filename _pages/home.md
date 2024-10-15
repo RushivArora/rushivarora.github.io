@@ -51,6 +51,7 @@ My goal is to create AI systems that can make good decisions in complex, dynamic
 
 
 ## News
+* [10/12/24] Hierarchical Universal Value Function Approximators! New Paper! I am especially excited about this paper
 * [05/21/2024] New Paper on Representations in Reinforcement Learning; submitted!
 * [03/01/2024] Changing ORGs in Dell, we are now the AI Research and Innovation (AIRI) Group!
 * [11/02/2023] Paper accepted at IEEE T-ASE!
