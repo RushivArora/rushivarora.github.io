@@ -45,7 +45,7 @@ I'm a Machine Learning + Advanced Hardware Research Scientist at Dell AI Researc
 
 <br><br>
 
-My goal is to create AI systems that can make good decisions in complex, dynamic, and uncertain environments using broadly intelligent behaviors. Intelligent behaviors are a combination of varying fields---including representation learning, decision-making, sensing, and planning---with the key challenge lying in the safe, effective, and transferable combination of these different areas.  My research areas are in reinforcement learning and machine learning, and I currently work in Hierarchical and Model-Based RL, Representation Learning, and Neuroscience-Inspired ML as a first foundational step to this long term goal.
+My goal is to create AI systems that can make good decisions in complex, dynamic, and uncertain environments using broadly intelligent behaviors. Intelligent behaviors are a combination of varying fields---including representation learning, decision-making, sensing, and planning---with the key challenge lying in the safe, effective, and transferable combination of these different areas.  My research areas are in reinforcement learning and machine learning, and I currently work in Hierarchical and Model-Based RL, Multi-Agent RL, Representation Learning, and Neuroscience-Inspired ML as a first foundational step to this long term goal.
 
 <br><br>
 
