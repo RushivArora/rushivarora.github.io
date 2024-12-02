@@ -85,7 +85,7 @@ My goal is to create AI systems that can make good decisions in complex, dynamic
      </td>
      <td valign="middle" width="80%">
           <p>
-              <b>Full-Time Advanced Hardware + ML Researcher at CTO Group in </b> <a href="https://www.dell.com/en-us/blog/tags/dell-emc/">Dell EMC, Hopkinton</a>.
+              <b>Full-Time Advanced Hardware + ML Research Scientist at Dell AI Research and CTO Group in </b> <a href="https://www.dell.com/en-us/blog/tags/dell-emc/">Dell EMC, Hopkinton</a>.
               <br>
               Advised by <a href="https://www.linkedin.com/in/michael-robillard-8bbb588/">Michael Robillard</a> and <a href="https://www.linkedin.com/in/trevorconn/">Trevor Conn</a>.
           </p>  
