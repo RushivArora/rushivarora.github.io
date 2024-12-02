@@ -55,9 +55,9 @@ My goal is to create AI systems that can make good decisions in complex, dynamic
 * [09/12/24] Joining the EMERGE Lab at NYU to work on Multi-Agent and Hierarchical RL with Professors Eugene Vinitsky and Roy Fox!
 * [05/21/2024] New Paper on Representations in Reinforcement Learning; submitted!
 * [03/01/2024] Changing ORGs in Dell, we are now the AI Research and Innovation (AIRI) Group!
-* [11/02/2023] Paper accepted at IEEE T-ASE!
+* [11/02/2023] Paper accepted at IEEE Transactions-ASE!
 * [10/12/2023] Joined the RL + Vision Lab at MILA as an External Collaborator!
-* [09/12/2023] New paper submitted to ICLR 2024!
+* [09/12/2023] New paper inspired by Neuroscience on natural-time; submitted!
 * [06/12/2023] Presented a paper at IEEE VTC in Florence Italy!
 * [11/16/2022] New preprint submitted to IEEE T-ASE!
 * [07/22/2022] Our paper on model-based reinforcement learning leveraging Physics was accepted at the DARL workshop at ICML 2022! Looking forward to being in Baltimore!
