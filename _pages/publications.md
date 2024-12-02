@@ -66,6 +66,52 @@ paper {
      </td>
    </tr>
 
+  <tr>
+     <td width="20%"  valign="middle">
+     </td>
+     <td valign="top" width="80%">
+          <p>
+              <paper>Multi-Agent Hierarchical Reinforcement Learning</paper>
+              <br>
+              John B. Lanier*, <b>Rushiv Arora*</b>, Eugene Vinitsky, Roy Fox
+              <br>
+              Pre-print
+              <br>
+              <details>
+                <summary>Abstract  </summary>            
+                  <p class="message">
+                  <br><br>
+                  <b>Keywords</b>: Reinforcement Learning, Machine Learning
+                  </p>
+              </details>
+          </p>  
+     </td>
+   </tr>
+  </table>
+
+  <tr>
+     <td width="20%"  valign="middle">
+     </td>
+     <td valign="top" width="80%">
+          <p>
+              <paper>Natural Language Encoded Multi-Task and Multi-Agent Reinforcement Learning</paper>
+              <br>
+              <b>Rushiv Arora*</b>, Eugene Vinitsky
+              <br>
+              Pre-print
+              <br>
+              <details>
+                <summary>Abstract  </summary>            
+                  <p class="message">
+                  <br><br>
+                  <b>Keywords</b>: Reinforcement Learning, Machine Learning
+                  </p>
+              </details>
+          </p>  
+     </td>
+   </tr>
+  </table>
+
    <tr>
      <td width="20%"  valign="middle">
      </td>
