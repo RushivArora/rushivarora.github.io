@@ -95,7 +95,7 @@ paper {
           <p>
               <paper>Natural Language Encoded Multi-Task and Multi-Agent Reinforcement Learning</paper>
               <br>
-              <b>Rushiv Arora*</b>, Eugene Vinitsky
+              <b>Rushiv Arora</b>, Eugene Vinitsky
               <br>
               Pre-print
               <br>
