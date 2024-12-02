@@ -229,8 +229,8 @@ paper {
                <br>
               Accepted at IEEE Transactions on Automation Science and Engineering
              <br>
-             <a href="https://arxiv.org/abs/2211.15866">arXiv</a>
-           </p>  
+             <a href="https://arxiv.org/abs/2211.15866">arXiv</a> | <a href="https://ieeexplore.ieee.org/abstract/document/10522748">IEEE Xplore</a>
+           </p>
       </td>
     </tr>
 
