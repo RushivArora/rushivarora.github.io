@@ -87,7 +87,6 @@ paper {
           </p>  
      </td>
    </tr>
-  </table>
 
   <tr>
      <td width="20%"  valign="middle">
@@ -110,7 +109,6 @@ paper {
           </p>  
      </td>
    </tr>
-  </table>
 
    <tr>
      <td width="20%"  valign="middle">
