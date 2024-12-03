@@ -77,18 +77,48 @@ My goal is to create AI systems that can make good decisions in complex, dynamic
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 
-   
    <tr>
-    <td width="5%"  valign="middle"> <b>06/2023</b>
+    <td width="5%"  valign="middle"> <b>09/2023 - Present</b>
+    </td>
+     <td width="7%"  valign="middle">
+            <img src="/images/timeline/NYU.png" alt="DM" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/>
+     </td>
+     <td valign="middle" width="80%">
+          <p>
+              <b>Part-Time: Visiting Researcher at </b> <a href="https://emerge-lab.github.io">EMERGE Lab</a>, New York University.
+              <br>
+              Advised by <a href="https://www.eugenevinitsky.com">Professors Eugene Vinitsky</a> and <a href='https://royf.org'>Roy Fox</a>.
+          </p>  
+     </td>
+   </tr>
+
+
+   <tr>
+    <td width="5%"  valign="middle"> <b>06/2023 - Present</b>
     </td>
      <td width="7%"  valign="middle">
             <img src="/images/timeline/dell_emc.png" alt="DM" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/>
      </td>
      <td valign="middle" width="80%">
           <p>
-              <b>Full-Time Advanced Hardware + ML Research Scientist at Dell AI Research and CTO Group in </b> <a href="https://www.dell.com/en-us/blog/tags/dell-emc/">Dell EMC, Hopkinton</a>.
+              <b>Full-Time: Advanced Hardware + ML Research Scientist at Dell AI Research and CTO Group in </b> <a href="https://www.dell.com/en-us/blog/tags/dell-emc/">Dell EMC, Hopkinton</a>.
               <br>
               Advised by <a href="https://www.linkedin.com/in/michael-robillard-8bbb588/">Michael Robillard</a> and <a href="https://www.linkedin.com/in/trevorconn/">Trevor Conn</a>.
+          </p>  
+     </td>
+   </tr>
+
+   <tr>
+    <td width="5%"  valign="middle"> <b>12/2023 - 06/24</b>
+    </td>
+     <td width="7%"  valign="middle">
+            <img src="/images/timeline/mila.png" alt="DM" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/>
+     </td>
+     <td valign="middle" width="80%">
+          <p>
+              <b>Part-Time: Visiting Researcher at </b> <a href="https://mila.quebec/en">MILA Quebec</a>.
+              <br>
+              Advised by <a href="https://scholar.google.ca/citations?user=F99FuaAAAAAJ&hl=en">Professor Samira Kabou</a>.
           </p>  
      </td>
    </tr>
@@ -104,6 +134,7 @@ My goal is to create AI systems that can make good decisions in complex, dynamic
               <b>Graduated from </b> <a href="https://www.umass.edu/">UMass Amherst</a> <b>with a MS in Computer Science.</b>
               <br>
               Received a Bay State Fellowship.
+              Member of Autonomous Learning Lab with Professor Bruno Castro da Silva, BiNDS Lab with Hava Siegelmann, and Systems Lab with Eliot Moss.
           </p>  
      </td>
    </tr>
