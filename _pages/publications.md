@@ -139,7 +139,7 @@ paper {
 
   <tr>
      <td width="20%"  valign="middle">
-           <img src="/images/publications/uspto.svg" alt="TFA" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/>
+           <img src="/images/publications/uspto.png" alt="TFA" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/>
      </td>
      <td valign="top" width="80%">
           <p>
