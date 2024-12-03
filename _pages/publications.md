@@ -139,6 +139,30 @@ paper {
 
   <tr>
      <td width="20%"  valign="middle">
+           <img src="/images/publications/uspto.svg" alt="TFA" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/>
+     </td>
+     <td valign="top" width="80%">
+          <p>
+              <paper>6 Patents on Foundation Models. Titles Presented Undisclosed</paper>
+              <br>
+              <b>Rushiv Arora</b>, Undisclosed Authors
+              <br>
+              Filed with USPTO
+              <br>
+              <details>
+                <summary>Abstract  | <a href="https://arxiv.org/abs/2410.08997">arXiv</a> </summary>     
+                  <p class="message">
+                  <br><br>
+                  <b>Keywords</b>: Generative AI, Foundation Models
+                  </p>
+              </details>
+          </p>  
+     </td>
+   </tr>
+
+
+  <tr>
+     <td width="20%"  valign="middle">
            <img src="/images/publications/ICML2025HUVFA.png" alt="TFA" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/>
      </td>
      <td valign="top" width="80%">
