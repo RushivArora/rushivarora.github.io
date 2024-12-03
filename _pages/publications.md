@@ -150,7 +150,7 @@ paper {
               Filed with USPTO
               <br>
               <details>
-                <summary>Abstract  | <a href="https://arxiv.org/abs/2410.08997">arXiv</a> </summary>     
+                <summary>  
                   <p class="message">
                   <br><br>
                   <b>Keywords</b>: Generative AI, Foundation Models
