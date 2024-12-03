@@ -78,7 +78,7 @@ My goal is to create AI systems that can make good decisions in complex, dynamic
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 
    <tr>
-    <td width="5%"  valign="middle"> <b>09/2023 - Present</b>
+    <td width="5%"  valign="middle"> <b>09/24 - Present</b>
     </td>
      <td width="7%"  valign="middle">
             <img src="/images/timeline/NYU.png" alt="DM" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/>
