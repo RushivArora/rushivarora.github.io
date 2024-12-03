@@ -150,7 +150,7 @@ paper {
               Filed with USPTO
               <br>
               <details>
-                <summary> Abstract  
+                <summary> Abstract </summary>  
                   <p class="message">
                   <br><br>
                   <b>Keywords</b>: Generative AI, Foundation Models
