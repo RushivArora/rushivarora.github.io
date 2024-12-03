@@ -51,7 +51,7 @@ My goal is to create AI systems that can make good decisions in complex, dynamic
 
 
 ## News
-* [11/02/24] 6 Patents on Foundation Models filed with USPTO!
+* [02/11/24] 6 Patents on Foundation Models filed with USPTO!
 * [10/12/24] Hierarchical Universal Value Function Approximators! New Paper!
 * [09/12/24] Joining the EMERGE Lab at NYU as a Visiting Researcher to work on Multi-Agent and Hierarchical RL with Professors Eugene Vinitsky and Roy Fox!
 * [05/21/2024] New Paper on Representations in Reinforcement Learning; submitted!
