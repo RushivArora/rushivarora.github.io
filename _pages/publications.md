@@ -172,7 +172,9 @@ paper {
               <b>Rushiv Arora</b>
               <br>
               Under Review
+              Abstract also presented at RLDM 2025
               <br>
+              <p style="color:red">(Representative Technical Writing)</p>
               <details>
                 <summary>Abstract  | <a href="https://arxiv.org/abs/2410.08997">arXiv</a> </summary>     
                   <p class="message">
@@ -299,7 +301,6 @@ paper {
               <br>
              DARL Workshop @ The Thirty-ninth International Conference on Machine Learning (ICML 2022)
              <br>
-             <p style="color:red">(Representative Technical Writing)</p>
               <details>
                 <summary>Abstract  | <a href="https://openreview.net/forum?id=3xBZY7LGorK&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2022%2FWorkshop%2FDARL%2FAuthors%23your-submissions)">Paper</a> | <a href="https://arxiv.org/abs/2208.14501">arXiv</a> | </summary>            
                   <p class="message">
