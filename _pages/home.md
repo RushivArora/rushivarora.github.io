@@ -49,6 +49,7 @@ My goal is to create AI systems that can make good decisions in complex, dynamic
 
 <br><br>
 
+**News**: I am running the 2025 NYC Marathon in support of Ovarian Cancer. Please consider sharing or donating <a href='https://p2p.onecause.com/nycmarathon2025/rushiv-arora'>here</a>! Consider following <a href='https://strava.app.link/GGiFMi1B0Rb'>my marathon journey</a> too!
 
 ## News
 * [11/02/24] 6 Patents on Foundation Models filed with USPTO!
