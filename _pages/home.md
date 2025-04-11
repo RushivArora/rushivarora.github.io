@@ -70,7 +70,7 @@ My goal is to create AI systems that can make good decisions in complex, dynamic
 
 ## Service
 * Reviewer:
-  * Nature Communications: 2024
+  * Nature Communications: 2024, 2025
   * IEEE Transactions-ASE: 2022, 2023, 2024
 <br><br>
 
