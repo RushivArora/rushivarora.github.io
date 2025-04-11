@@ -47,9 +47,11 @@ I'm a Machine Learning + Advanced Hardware Research Scientist at Dell AI Researc
 
 My goal is to create AI systems that can make good decisions in complex, dynamic, and uncertain environments using broadly intelligent behaviors. Intelligent behaviors are a combination of varying fields inspired by human intelligence---like decision-making, reasoning, working with uncertainty of surrounding actors, and robotic learning/planning---with the key challenge lying in the safe, effective, and generalizable combination of these different areas. My research areas are in reinforcement learning and machine learning, and I currently work in Multi-Agent, Hierarchical and Model-Based RL, Representation Learning, and Neuroscience-Inspired ML as a first foundational step to this long term goal, and I am keen to explore additional areas in Machine Learning and Cognitive Science.
 
-<br><br>
+<br>
 
-**News**: I am running the 2025 NYC Marathon in support of Ovarian Cancer. Please consider sharing or donating <a href='https://p2p.onecause.com/nycmarathon2025/rushiv-arora'>here</a>! Consider following <a href='https://strava.app.link/GGiFMi1B0Rb'>my marathon journey</a> too!
+**Note**: I am running the 2025 NYC Marathon in support of Ovarian Cancer. Please consider sharing or donating <a href='https://p2p.onecause.com/nycmarathon2025/rushiv-arora'>here</a>! Consider following <a href='https://strava.app.link/GGiFMi1B0Rb'>my marathon journey</a> too!
+
+<br><br>
 
 ## News
 * [11/02/24] 6 Patents on Foundation Models filed with USPTO!
