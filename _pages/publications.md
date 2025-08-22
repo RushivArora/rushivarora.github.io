@@ -133,6 +133,37 @@ paper {
    </tr>
   </table>
 
+#### 2025
+
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+
+  <tr>
+     <td width="20%"  valign="middle">
+           <img src="/images/publications/USPTO2.png" alt="TFA" style="vertical-align:middle; horizontal-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/>
+     </td>
+     <td valign="top" width="80%">
+          <p>
+              <paper>6 Patents on Foundation Models. Titles Presented Undisclosed</paper>
+              <br>
+              <b>Rushiv Arora</b>, Undisclosed Authors
+              <br>
+              Filed with USPTO
+              <br>
+              <details>
+                <summary> Abstract </summary>  
+                  <p class="message">
+                  <br><br>
+                  <b>Keywords</b>: Generative AI, Foundation Models
+                  </p>
+              </details>
+          </p>  
+     </td>
+   </tr>
+
+
+  </table>
+
+
 #### 2024
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
