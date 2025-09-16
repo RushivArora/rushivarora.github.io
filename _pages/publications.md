@@ -143,7 +143,7 @@ paper {
      </td>
      <td valign="top" width="80%">
           <p>
-              <paper>6 Patents on Foundation Models. Titles Presented Undisclosed</paper>
+              <paper>6 Patents on Computing. Titles Presented Undisclosed</paper>
               <br>
               <b>Rushiv Arora</b>, Undisclosed Authors
               <br>
