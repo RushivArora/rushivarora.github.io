@@ -54,6 +54,7 @@ My goal is to create AI systems that can make good decisions in complex, dynamic
 <br><br>
 
 ## News
+* [09/09/2025] 6 more Patents on Computing filed with USPTO!
 * [11/02/24] 6 Patents on Foundation Models filed with USPTO!
 * [10/12/24] Hierarchical Universal Value Function Approximators! New Paper!
 * [09/12/24] Joining the EMERGE Lab at NYU as a Visiting Researcher to work on Multi-Agent and Hierarchical RL with Professors Eugene Vinitsky and Roy Fox!
@@ -71,6 +72,7 @@ My goal is to create AI systems that can make good decisions in complex, dynamic
 ## Service
 * Reviewer:
   * AAAI: 2026
+  * AAMAS: 2026
   * Nature Communications: 2024, 2025
   * IEEE Transactions: 2022, 2023, 2024
 <br><br>
