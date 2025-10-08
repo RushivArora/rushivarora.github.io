@@ -126,7 +126,6 @@ paper {
               <b>Rushiv Arora</b>
               <br>
               Under Review
-              <p style="color:red">(Representative Technical Writing)</p>
               <details>
                 <summary>Abstract  | <a href="https://arxiv.org/abs/2510.06138">arXiv</a> </summary>     
                   <p class="message">
