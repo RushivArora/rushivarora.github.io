@@ -133,6 +133,38 @@ paper {
    </tr>
   </table>
 
+#### 2026
+
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+
+  <tr>
+     <td width="20%"  valign="middle">
+           <img src="/images/publications/LEXPOLGrid.png" alt="TFA" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/>
+     </td>
+     <td valign="top" width="80%">
+          <p>
+              <paper>Multi-Task Reinforcement Learning with Language-Encoded Gated Policy Networks</paper>
+              <br>
+              <b>Rushiv Arora</b>
+              <br>
+              Under Review
+              <p style="color:red">(Representative Technical Writing)</p>
+              <details>
+                <summary>Abstract  | <a href="https://arxiv.org/abs/2510.06138">arXiv</a> </summary>     
+                  <p class="message">
+                  Multi-task reinforcement learning often relies on task metadata -- such as brief natural-language descriptions -- to guide behavior across diverse objectives. We present Lexical Policy Networks (LEXPOL), a language-conditioned mixture-of-policies architecture for multi-task RL. LEXPOL encodes task metadata with a text encoder and uses a learned gating module to select or blend among multiple sub-policies, enabling end-to-end training across tasks. On MetaWorld benchmarks, LEXPOL matches or exceeds strong multi-task baselines in success rate and sample efficiency, without task-specific retraining. To analyze the mechanism, we further study settings with fixed expert policies obtained independently of the gate and show that the learned language gate composes these experts to produce behaviors appropriate to novel task descriptions and unseen task combinations. These results indicate that natural-language metadata can effectively index and recombine reusable skills within a single policy.
+                  <br><br>
+                  <b>Keywords</b>: Reinforcement Learning, Multi-Task Reinforcement Learning, Language Encodings
+                  </p>
+              </details>
+          </p>  
+     </td>
+   </tr>
+
+
+  </table>
+
+
 #### 2025
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">

@@ -54,6 +54,7 @@ My goal is to create AI systems that can make good decisions in complex, dynamic
 <br><br>
 
 ## News
+* [10/08/2025] New paper: Lexical Policy Networks for Multi-Task Reinforcement Learning! Paper on arxiv and under review!
 * [09/09/2025] 6 more Patents on Computing filed with USPTO!
 * [11/02/24] 6 Patents on Foundation Models filed with USPTO!
 * [10/12/24] Hierarchical Universal Value Function Approximators! New Paper!
