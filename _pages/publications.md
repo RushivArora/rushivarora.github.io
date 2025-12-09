@@ -148,11 +148,39 @@ paper {
 
   <tr>
      <td width="20%"  valign="middle">
+           <img src="/images/publications/ICML2025HUVFA.png" alt="TFA" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/>
+     </td>
+     <td valign="top" width="80%">
+          <p>
+              <paper>Hierarchical Universal Value Functional Approximators</paper>
+              <br>
+              <b>Rushiv Arora</b>
+              <br>
+              Under Review
+              <br>
+              Abstract also presented at RLDM 2025
+              <br>
+              <p style="color:red">(Representative Technical Writing)</p>
+              <details>
+                <summary>Abstract  | <a href="https://arxiv.org/abs/2410.08997">arXiv</a> </summary>     
+                  <p class="message">
+                  There have been key advancements to building universal approximators for multi-goal collections of reinforcement learning value functions---key elements in estimating long-term returns of states in a parameterized manner. We extend this to hierarchical reinforcement learning, using the options framework, by introducing hierarchical universal value function approximators (H-UVFAs). This allows us to leverage the added benefits of scaling, planning, and generalization expected in temporal abstraction settings. We develop supervised and reinforcement learning methods for learning embeddings of the states, goals, options, and actions in the two hierarchical value functions: Q(s, g, o; θ) and Q(s, g, o, a; θ). Finally we demonstrate generalization of the HUVFAs and show they outperform corresponding UVFAs.
+                  <br><br>
+                  <b>Keywords</b>: Reinforcement Learning, Universal Value Function Approximators, Hierarchical Reinforcement Learning
+                  </p>
+              </details>
+          </p>  
+     </td>
+  </tr>
+
+
+  <tr>
+     <td width="20%"  valign="middle">
            <img src="/images/publications/USPTO2.png" alt="TFA" style="vertical-align:middle; horizontal-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/>
      </td>
      <td valign="top" width="80%">
           <p>
-              <paper>6 Patents on Computing. Titles Presented Undisclosed</paper>
+              <paper>6 Patents on Ubiquitous Computing. Titles Presented Undisclosed</paper>
               <br>
               <b>Rushiv Arora</b>, Undisclosed Authors
               <br>
@@ -194,34 +222,6 @@ paper {
                   <p class="message">
                   <br><br>
                   <b>Keywords</b>: Generative AI, Foundation Models
-                  </p>
-              </details>
-          </p>  
-     </td>
-   </tr>
-
-
-  <tr>
-     <td width="20%"  valign="middle">
-           <img src="/images/publications/ICML2025HUVFA.png" alt="TFA" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/>
-     </td>
-     <td valign="top" width="80%">
-          <p>
-              <paper>Hierarchical Universal Value Functional Approximators</paper>
-              <br>
-              <b>Rushiv Arora</b>
-              <br>
-              Under Review
-              <br>
-              Abstract also presented at RLDM 2025
-              <br>
-              <p style="color:red">(Representative Technical Writing)</p>
-              <details>
-                <summary>Abstract  | <a href="https://arxiv.org/abs/2410.08997">arXiv</a> </summary>     
-                  <p class="message">
-                  There have been key advancements to building universal approximators for multi-goal collections of reinforcement learning value functions---key elements in estimating long-term returns of states in a parameterized manner. We extend this to hierarchical reinforcement learning, using the options framework, by introducing hierarchical universal value function approximators (H-UVFAs). This allows us to leverage the added benefits of scaling, planning, and generalization expected in temporal abstraction settings. We develop supervised and reinforcement learning methods for learning embeddings of the states, goals, options, and actions in the two hierarchical value functions: Q(s, g, o; θ) and Q(s, g, o, a; θ). Finally we demonstrate generalization of the HUVFAs and show they outperform corresponding UVFAs.
-                  <br><br>
-                  <b>Keywords</b>: Reinforcement Learning, Universal Value Function Approximators, Hierarchical Reinforcement Learning
                   </p>
               </details>
           </p>  
